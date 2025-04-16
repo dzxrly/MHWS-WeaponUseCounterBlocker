@@ -6,9 +6,9 @@
 
 <div align="center">
 
-[![Static Badge](https://img.shields.io/badge/Nexusmods-Item%20Box%20Editor-%23d28934?style=for-the-badge)](https://www.nexusmods.com/monsterhunterwilds/mods/102) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-BoxItemEditor%2Fmain%2Fversion.json&query=%24.version&style=for-the-badge&label=VERSION) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-BoxItemEditor%2Frefs%2Fheads%2Fmain%2Fversion.json&query=%24.max&style=for-the-badge&label=Supported%20Game%20Version%20(MAX)&color=FF5733) [![GitHub License](https://img.shields.io/github/license/dzxrly/MHWS-BoxItemEditor?style=for-the-badge)](https://github.com/dzxrly/MHWS-BoxItemEditor/blob/main/LICENSE)
+[![Static Badge](https://img.shields.io/badge/Nexusmods-Item%20Box%20Editor-%23d28934?style=for-the-badge)](https://www.nexusmods.com/monsterhunterwilds/mods/102) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-WeaponUseCounterBlocker%2Frefs%2Fheads%2Fmain%2Fversion.json&query=%24.version&style=for-the-badge&label=version) [![GitHub License](https://img.shields.io/github/license/dzxrly/MHWS-WeaponUseCounterBlocker?style=for-the-badge)](https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker/blob/main/LICENSE)
 
-![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-BoxItemEditor%2Frefs%2Fheads%2Fmain%2Fmod_info.yaml&query=%24.views_count&style=for-the-badge&label=Nexusmods%20views&color=F0E6EF) ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-BoxItemEditor%2Frefs%2Fheads%2Fmain%2Fmod_info.yaml&query=%24.total_download_count&style=for-the-badge&label=Nexusmods%20downloads&color=A8DADC) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dzxrly/MHWS-BoxItemEditor/total?style=for-the-badge&label=Github%20Downloads&color=bce784)
+![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-WeaponUseCounterBlocker%2Frefs%2Fheads%2Fmain%2Fmod_info.yaml&query=%24.views_count&style=for-the-badge&label=Nexusmods%20views&color=F0E6EF) ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdzxrly%2FMHWS-WeaponUseCounterBlocker%2Frefs%2Fheads%2Fmain%2Fmod_info.yaml&query=%24.total_download_count&style=for-the-badge&label=Nexusmods%20downloads&color=A8DADC) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dzxrly/MHWS-WeaponUseCounterBlocker/total?style=for-the-badge&label=Github%20Downloads&color=bce784)
 
 
 </div>
@@ -29,7 +29,7 @@ When the 1st or 2nd weapon is in the selected weapon list, the task count of thi
 
 ## Mod Download:
 
-[https://github.com/dzxrly/MHWS-BoxItemEditor/releases/](https://github.com/dzxrly/MHWS-BoxItemEditor/releases/)
+[https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker/releases/](https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker/releases/)
 
 ## How To Install:
 
@@ -48,7 +48,7 @@ When the 1st or 2nd weapon is in the selected weapon list, the task count of thi
 
 ## MOD下载:
 
-[https://github.com/dzxrly/MHWS-BoxItemEditor/releases/](https://github.com/dzxrly/MHWS-BoxItemEditor/releases/)
+[https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker/releases/](https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker/releases/)
 
 ## 安装方式：
 

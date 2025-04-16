@@ -5,8 +5,6 @@ import re
 import shutil
 from datetime import datetime, timedelta, timezone
 
-import pandas as pd
-
 CONTRIBUTORS = [
     'Egg Targaryen',
 ]
