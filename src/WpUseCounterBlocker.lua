@@ -33,7 +33,7 @@ local INTER_VERSION = "v1.0.0"
 local i18nFilePath = ""
 local userConfigPath = ""
 local config = {
-    enableMod = true,
+    enableMod = false,
     wpBlockList = {}
 }
 
@@ -63,7 +63,7 @@ local currentFirstWp = nil
 local currentSecondWp = nil
 local currentNum = nil
 
-local enableCheckBoxState = true
+local enableCheckBoxState = false
 local enableCheckBoxChanged = false
 local wpLongSwordState = false
 local wpLongSwordChanged = false
