@@ -28,7 +28,7 @@ local I18N = {
     hbg = "Heavy Bowgun",
     lbg = "Light Bowgun"
 }
-local INTER_VERSION = "v1.0.0"
+local INTER_VERSION = "1.0.0"
 
 local i18nFilePath = ""
 local userConfigPath = ""
