@@ -1,0 +1,19 @@
+{
+  "modName": "Weapon Use Counter Blocker",
+  "enableModCheckboxTip": "Enable Blocker",
+  "wpBlockTip": "Select needed to block weapon type (including FIRST & SECOND weapon)",
+  "longSword": "Great Sword",
+  "shortSword": "Sword & Shield",
+  "twinSword": "Dual Blades",
+  "tachi": "Long Sword",
+  "hammer": "Hammer",
+  "whistle": "Hunting Horn",
+  "lance": "Lance",
+  "gunLance": "Gunlance",
+  "slashAxe": "Switch Axe",
+  "chargeAxe": "Charge Blade",
+  "rod": "Insect Glaive",
+  "bow": "Bow",
+  "hbg": "Heavy Bowgun",
+  "lbg": "Light Bowgun"
+}

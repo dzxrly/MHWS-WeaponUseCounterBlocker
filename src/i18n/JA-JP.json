@@ -1,0 +1,19 @@
+{
+  "modName": "武器使用カウンターブロッカー",
+  "enableModCheckboxTip": "ブロッカーを有効にする",
+  "wpBlockTip": "必要な武器タイプを選択してブロックする（メイン武器とサブ武器を含む）",
+  "longSword": "大剣",
+  "shortSword": "片手剣",
+  "twinSword": "双剣",
+  "tachi": "太刀",
+  "hammer": "ハンマー",
+  "whistle": "狩猟笛",
+  "lance": "ランス",
+  "gunLance": "ガンランス",
+  "slashAxe": "スラッシュアックス",
+  "chargeAxe": "チャージアックス",
+  "rod": "操虫棍",
+  "bow": "弓",
+  "hbg": "ヘビィボウガン",
+  "lbg": "ライトボウガン"
+}

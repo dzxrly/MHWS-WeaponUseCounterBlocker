@@ -1,0 +1,19 @@
+{
+  "modName": "武器使用次數計數屏蔽器",
+  "enableModCheckboxTip": "啟用計數屏蔽器",
+  "wpBlockTip": "選擇需要屏蔽的武器類型（包括主武器和副武器）",
+  "longSword": "大劍",
+  "shortSword": "單手劍",
+  "twinSword": "雙劍",
+  "tachi": "太刀",
+  "hammer": "大錘",
+  "whistle": "狩獵笛",
+  "lance": "長槍",
+  "gunLance": "銃槍",
+  "slashAxe": "斬擊斧",
+  "chargeAxe": "充能斧",
+  "rod": "操蟲棍",
+  "bow": "弓",
+  "hbg": "重弩槍",
+  "lbg": "輕弩槍"
+}

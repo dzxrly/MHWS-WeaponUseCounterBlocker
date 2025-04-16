@@ -1,0 +1,19 @@
+{
+  "modName": "무기 사용 횟수 차단기",
+  "enableModCheckboxTip": "차단기 활성화",
+  "wpBlockTip": "차단할 무기 유형을 선택하세요 (메인 무기 및 서브 무기 포함)",
+  "longSword": "대검",
+  "shortSword": "한손검",
+  "twinSword": "쌍검",
+  "tachi": "태도",
+  "hammer": "해머",
+  "whistle": "수렵피리",
+  "lance": "랜스",
+  "gunLance": "건랜스",
+  "slashAxe": "슬래시액스",
+  "chargeAxe": "차지액스",
+  "rod": "조충곤",
+  "bow": "활",
+  "hbg": "헤비보우건",
+  "lbg": "라이트보우건"
+}
