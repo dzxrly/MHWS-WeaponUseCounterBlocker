@@ -257,7 +257,6 @@ re.on_draw_ui(function()
             config.enableMod = enableCheckBoxState
         end
 
-        imgui.new_line()
         imgui.text(I18N.wpBlockTip)
         imgui.set_next_item_width(WINDOW_WIDTH_S)
         wpLongSwordChanged, wpLongSwordState = imgui.checkbox(I18N.longSword, wpLongSwordState)
