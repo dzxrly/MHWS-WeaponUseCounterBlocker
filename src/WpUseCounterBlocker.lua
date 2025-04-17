@@ -33,6 +33,11 @@ local I18N = {
     lbg = "Light Bowgun"
 }
 local INTER_VERSION = "1.0.0"
+local FONT = nil
+
+if LANG ~= "EN-US" then
+    FONT = imgui.load_font(FONT_NAME, FONT_SIZE, FONT_GLYPH)
+end
 
 local i18nFilePath = ""
 local userConfigPath = ""
@@ -242,6 +247,10 @@ end
 init()
 
 re.on_draw_ui(function()
+    if FONT ~= nil then
+        imgui.push_font(FONT)
+    end
+
     if imgui.tree_node(I18N.modName) then
         enableCheckBoxChanged, enableCheckBoxState = imgui.checkbox(I18N.enableModCheckboxTip, enableCheckBoxState)
         if enableCheckBoxChanged then
@@ -405,6 +414,10 @@ re.on_draw_ui(function()
         end
 
         imgui.tree_pop()
+    end
+
+    if FONT ~= nil then
+        imgui.pop_font()
     end
 end)
 
