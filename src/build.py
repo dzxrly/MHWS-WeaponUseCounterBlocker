@@ -14,8 +14,8 @@ LANG_LIST = [
         'tag': 'ZH-Hans',
         'fonts': 'src/fonts/Noto_Sans_SC/static/NotoSansSC-Medium.ttf',
         'fmm_config': {
-            'name': 'Weapon Use Counter Blocker',
-            'description': 'Weapon Use Counter Blocker',
+            'name': 'Weapon Usage Counter Blocker',
+            'description': 'Weapon Usage Counter Blocker',
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_ZH-Hans.png',
             'category': 'Gameplay',
@@ -26,8 +26,8 @@ LANG_LIST = [
         'tag': 'ZH-Hant',
         'fonts': 'src/fonts/Noto_Sans_TC/static/NotoSansTC-Medium.ttf',
         'fmm_config': {
-            'name': 'Weapon Use Counter Blocker',
-            'description': 'Weapon Use Counter Blocker',
+            'name': 'Weapon Usage Counter Blocker',
+            'description': 'Weapon Usage Counter Blocker',
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_ZH-Hant.png',
             'category': 'Gameplay',
@@ -37,8 +37,8 @@ LANG_LIST = [
     {
         'tag': 'EN-US',
         'fmm_config': {
-            'name': 'Weapon Use Counter Blocker',
-            'description': 'Weapon Use Counter Blocker',
+            'name': 'Weapon Usage Counter Blocker',
+            'description': 'Weapon Usage Counter Blocker',
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_EN-US.png',
             'category': 'Gameplay',
@@ -49,8 +49,8 @@ LANG_LIST = [
         'tag': 'JA-JP',
         'fonts': 'src/fonts/Noto_Sans_JP/static/NotoSansJP-Medium.ttf',
         'fmm_config': {
-            'name': 'Weapon Use Counter Blocker',
-            'description': 'Weapon Use Counter Blocker',
+            'name': 'Weapon Usage Counter Blocker',
+            'description': 'Weapon Usage Counter Blocker',
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_JA-JP.png',
             'category': 'Gameplay',
@@ -61,8 +61,8 @@ LANG_LIST = [
         'tag': 'KO-KR',
         'fonts': 'src/fonts/Noto_Sans_KR/static/NotoSansKR-Medium.ttf',
         'fmm_config': {
-            'name': 'Weapon Use Counter Blocker',
-            'description': 'Weapon Use Counter Blocker',
+            'name': 'Weapon Usage Counter Blocker',
+            'description': 'Weapon Usage Counter Blocker',
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_KO-KR.png',
             'category': 'Gameplay',
@@ -72,21 +72,21 @@ LANG_LIST = [
 ]
 
 # source file settings
-ORIGIN_LUA_FIEL = 'src/WpUseCounterBlocker.lua'
+ORIGIN_LUA_FIEL = 'src/WpUsageCounterBlocker.lua'
 I18N_FILE_DIR = 'src/i18n'
 # action settings
 WORK_TEMP_DIR = '.temp'
 # save settings
 MOD_ROOT_DIR = 'reframework'
-MOD_NAME = 'WeaponUseCounterBlocker'
+MOD_NAME = 'WeaponUsageCounterBlocker'
 LUA_SAVE_DIR = '{}/{}/{}'.format(WORK_TEMP_DIR, MOD_ROOT_DIR, 'autorun')
 JSON_SAVE_DIR = '{}/{}/{}/{}'.format(WORK_TEMP_DIR, MOD_ROOT_DIR, 'data', MOD_NAME)
-JSON_FILE_NAME_PREFIX = 'WeaponUseCounterBlocker_'
+JSON_FILE_NAME_PREFIX = 'WeaponUsageCounterBlocker_'
 USER_CONFIG_JSON_FILE_NAME = 'UserConfig.json'
 FONTS_SAVE_DIR = '{}/{}/{}'.format(WORK_TEMP_DIR, MOD_ROOT_DIR, 'fonts')
-FONTS_FILE_NAME = 'WeaponUseCounterBlocker_Fonts_NotoSans'
+FONTS_FILE_NAME = 'WeaponUsageCounterBlocker_Fonts_NotoSans'
 VERSION_JSON_SAVE_PATH = 'version.json'
-ZIP_FILE_PREFIX = 'WeaponUseCounterBlocker_'
+ZIP_FILE_PREFIX = 'WeaponUsageCounterBlocker_'
 # fmm settings
 COVER_FILE_NAME = 'cover.png'
 INI_FILE_NAME = 'modinfo.ini'

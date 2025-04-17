@@ -14,7 +14,7 @@ local FONT_GLYPH = {
     0,
 }
 local I18N = {
-    modName = "Weapon Use Counter Blocker",
+    modName = "Weapon Usage Counter Blocker",
     enableModCheckboxTip = "Enable Blocker",
     wpBlockTip = "Select needed to block weapon type (including FIRST & SECOND weapon)",
     longSword = "Great Sword",

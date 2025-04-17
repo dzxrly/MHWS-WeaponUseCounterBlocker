@@ -1,6 +1,6 @@
 <div align="center">
 
-# MHWS Weapon Use Counter Blocker
+# MHWS Weapon Usage Counter Blocker
 
 </div>
 
@@ -16,13 +16,14 @@
 > [!CAUTION]
 > Please backup your save before using! / 警告：使用前请备份存档！
 
-A mod of `Monster Hunter Wilds` for block weapon use counter. / 用于`怪物猎人：荒野`的武器使用次数记录屏蔽器。
+A mod of `Monster Hunter Wilds` for block weapon usage counter. / 用于`怪物猎人：荒野`的武器使用次数记录屏蔽器。
 
 ---
 
 ## Description:
 
-When the 1st or 2nd weapon is in the selected weapon list, the task count of this task and the 1st/2nd-weapon count will be blocked.
+When the 1st or 2nd weapon is in the selected weapon list, the usage count of this task and the 1st/2nd-weapon count
+will be blocked.
 
 ## Requirements:
 - [REFramework](https://www.nexusmods.com/monsterhunterwilds/mods/93)
