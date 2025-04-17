@@ -32,7 +32,7 @@ local I18N = {
     hbg = "Heavy Bowgun",
     lbg = "Light Bowgun"
 }
-local INTER_VERSION = "1.0.0"
+local INTER_VERSION = "1.0.1"
 local FONT = nil
 
 if LANG ~= "EN-US" then

@@ -19,7 +19,7 @@ LANG_LIST = [
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_ZH-Hans.png',
             'category': 'Gameplay',
-            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/102',
+            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/1913',
         },
     },
     {
@@ -31,7 +31,7 @@ LANG_LIST = [
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_ZH-Hant.png',
             'category': 'Gameplay',
-            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/102',
+            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/1913',
         },
     },
     {
@@ -42,7 +42,7 @@ LANG_LIST = [
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_EN-US.png',
             'category': 'Gameplay',
-            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/102',
+            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/1913',
         },
     },
     {
@@ -54,7 +54,7 @@ LANG_LIST = [
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_JA-JP.png',
             'category': 'Gameplay',
-            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/102',
+            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/1913',
         },
     },
     {
@@ -66,7 +66,7 @@ LANG_LIST = [
             'author': ', '.join(CONTRIBUTORS),
             'screenshot': 'src/assets/screenshot_KO-KR.png',
             'category': 'Gameplay',
-            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/102',
+            'homepage': 'https://www.nexusmods.com/monsterhunterwilds/mods/1913',
         },
     }
 ]
