@@ -1,3 +1,7 @@
+-- https://github.com/dzxrly/MHWS-WeaponUseCounterBlocker
+-- By Egg Targaryen
+-- MIT License
+
 local LARGE_BTN = Vector2f.new(300, 50)
 local SMALL_BTN = Vector2f.new(200, 40)
 local WINDOW_WIDTH_M = 300
