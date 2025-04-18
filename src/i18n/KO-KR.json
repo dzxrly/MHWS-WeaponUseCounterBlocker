@@ -1,7 +1,7 @@
 {
   "modName": "무기 사용 횟수 차단기",
   "enableModCheckboxTip": "차단기 활성화",
-  "wpBlockTip": "차단할 무기 유형을 선택하세요 (메인 무기 및 서브 무기 포함)",
+  "wpBlockTip": "차단할 무기 유형을 선택하세요\n[선택한 무기 종류는 메인 무기 및 서브 무기에 등장할 때 효과가 발생하며, 이번 임무의 카운트에서 제외됩니다]",
   "longSword": "대검",
   "shortSword": "한손검",
   "twinSword": "쌍검",

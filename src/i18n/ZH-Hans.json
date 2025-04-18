@@ -1,7 +1,7 @@
 {
   "modName": "武器使用次数计数屏蔽器",
   "enableModCheckboxTip": "启用计数屏蔽器",
-  "wpBlockTip": "选择需要屏蔽的武器类型（包括主武器和副武器）",
+  "wpBlockTip": "选择需要屏蔽的武器类型\n[被选中的武器类型出现在主武器或副武器时便会生效，同时会屏蔽本次任务的计数]",
   "longSword": "大剑",
   "shortSword": "单手剑",
   "twinSword": "双剑",
