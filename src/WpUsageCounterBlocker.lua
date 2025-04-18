@@ -32,7 +32,7 @@ local I18N = {
     hbg = "Heavy Bowgun",
     lbg = "Light Bowgun"
 }
-local INTER_VERSION = "1.0.1"
+local INTER_VERSION = "1.0.2"
 local FONT = nil
 
 if LANG ~= "EN-US" then
@@ -255,6 +255,12 @@ re.on_draw_ui(function()
         enableCheckBoxChanged, enableCheckBoxState = imgui.checkbox(I18N.enableModCheckboxTip, enableCheckBoxState)
         if enableCheckBoxChanged then
             config.enableMod = enableCheckBoxState
+            if config.enableMod then
+                logger("Weapon Usage Counter Blocker enabled")
+            else
+                logger("Weapon Usage Counter Blocker disabled")
+            end
+            saveUserConfigJson(userConfigPath)
         end
 
         imgui.text(I18N.wpBlockTip)
